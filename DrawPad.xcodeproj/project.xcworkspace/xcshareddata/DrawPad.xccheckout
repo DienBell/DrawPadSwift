@@ -10,14 +10,14 @@
 	<string>DrawPad</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>13C594764BA78575F50CF16256B7AB920992FC98</key>
+		<key>BC0E3D4FC6D663C2CF402F4E3E0F116131028C3A</key>
 		<string>github.com:DienBell/DrawPadSwift.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
 	<string>DrawPad.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>13C594764BA78575F50CF16256B7AB920992FC98</key>
+		<key>BC0E3D4FC6D663C2CF402F4E3E0F116131028C3A</key>
 		<string>../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
@@ -25,14 +25,14 @@
 	<key>IDESourceControlProjectVersion</key>
 	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>13C594764BA78575F50CF16256B7AB920992FC98</string>
+	<string>BC0E3D4FC6D663C2CF402F4E3E0F116131028C3A</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>13C594764BA78575F50CF16256B7AB920992FC98</string>
+			<string>BC0E3D4FC6D663C2CF402F4E3E0F116131028C3A</string>
 			<key>IDESourceControlWCCName</key>
 			<string>DrawPadSwift</string>
 		</dict>
